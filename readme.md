@@ -1,8 +1,8 @@
 PEDRA PAPEL E TESOURA EM JAVA-SCRIPT
 
 +----------------------------------------------------------------------+
-|LINK DO VÍDEO NO YOUTUBE MOSTRANDO O FUNCIONAMENTO COMPLETO DO QUIZ:  |
-|                   https://youtu.be/2gFdAHIevx0                       |
+|LINK DO VÍDEO NO DRIVE MOSTRANDO O FUNCIONAMENTO COMPLETO DO JOGO  :  |
+| (https://drive.google.com/file/d/1zH0IovVr3Qr2mfeve34HiQYwCwnaO7VG/view?usp=sharing)  |
 +----------------------------------------------------------------------+
 
 Desenvolvido por
